@@ -54,7 +54,8 @@ let variableBoolean = true;
 console.log("Las variables tienen los valores:", variableNull, variableBoolean)
 ```
 
-## Parte 3
+
+## Parte 3: Entrada y Salida de Datos
 **`parte3.js`**
 
 **3.1**
