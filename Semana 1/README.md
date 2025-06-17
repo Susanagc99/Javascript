@@ -16,10 +16,20 @@ Y que sea *"basado en eventos"* significa que espera a que algo suceda (un event
 **Eventos como:** Clic en un botón, movimiento del mouse, enviar un formulario, presionar una tecla...  
 💡 Esto hace que el sitio sea interactivo y dinámico.
 
-## Parte 2
+## Parte 2: Variables y Tipos de Datos
 
+2.1
 ```js 
-let nombre = "Susana"; console.log("Hola, " + nombre);```
+let nombre = "Susana"; console.log("Hola, " + nombre);
+```
+
+2.2
+```js
+let edad = 20;
+let precio = 10.5;
+let color = "rojo";
+console.log(edad, precio, color);
+```
 
 
 ## Parte 3
