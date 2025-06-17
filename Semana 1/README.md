@@ -31,6 +31,13 @@ let color = "rojo";
 console.log(edad, precio, color);
 ```
 
+2.3
+```js
+const PI = 3.1416;
+// si se intenta cambiar el valor, por ejemplo: PI = 3.14; 
+//sale (TypeError: Assignment to constant variable.) porque no se puede reasignar una constante
+console.log("El valor de PI es:", PI);
+```
 
 ## Parte 3
 
