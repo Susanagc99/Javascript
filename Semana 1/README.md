@@ -18,7 +18,8 @@ Y que sea *"basado en eventos"* significa que espera a que algo suceda (un event
 
 ## Parte 2
 
-```jslet nombre = "Susana"; console.log("Hola, " + nombre);```
+```js 
+let nombre = "Susana"; console.log("Hola, " + nombre);```
 
 
 ## Parte 3
