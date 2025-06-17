@@ -15,7 +15,7 @@ Que sea un lenguaje *"interpretado"* significa que el código no necesita ser co
 Y que sea *"basado en eventos"* significa que espera a que algo suceda (un evento) para ejecutar cierta acción.  
 **Eventos como:** Clic en un botón, movimiento del mouse, enviar un formulario, presionar una tecla...  
 💡 Esto hace que el sitio sea interactivo y dinámico.
-
+  
 ## Parte 2: Variables y Tipos de Datos
 **`parte2.js`**
 
@@ -53,8 +53,7 @@ let variableNull = null;
 let variableBoolean = true;
 console.log("Las variables tienen los valores:", variableNull, variableBoolean)
 ```
-
-
+  
 ## Parte 3: Entrada y Salida de Datos
 **`parte3.js`**
 
@@ -74,9 +73,8 @@ alert("Bienvenido al programa");
 let respuesta = confirm("¿Deseas continuar?");
 console.log(respuesta);
 ```
-
-
-## Parte 4
+  
+## Parte 4: Operadores
 **`parte4.js`**
 
 **4.1**
@@ -107,9 +105,42 @@ console.log(true && false);
 console.log(false || true);
 console.log(!true);
 ```
+  
+## Parte 5: Condicionales
 
+**5.1**
+```js
+let numero = prompt("Ingrese un número:")
+console.log("El número ingresado es: " + numero)
 
-## Parte 5
+if(numero > 10) {
+    console.log("El número es mayor")
+} else if (numero < 10) {
+    console.log("El número es menor")
+} else {   
+    console.log("El número es igual a 10");
+}
+```
+
+**5.2**
+```js
+let nombre = prompt("Ingrese su nombre:");
+
+if (nombre.toLowerCase() === "admin") {
+    console.log("¡Bienvenido administrador!");
+} else {
+    console.log("¡Bienvenido usuario!");
+}
+```
+
+**5.3**
+```js
+let numeropoi = prompt("Ingrese un número");
+let resultado = numeropoi % 2 === 0 ? "par" : "impar";
+//calcula el residuo de dividir entre 2, si es igual a 0 entonces es par, sino es impar
+console.log("El número es: " + resultado)
+```
+
 
 ## Parte 6
 
