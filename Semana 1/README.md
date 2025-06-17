@@ -19,12 +19,12 @@ Y que sea *"basado en eventos"* significa que espera a que algo suceda (un event
 ## Parte 2: Variables y Tipos de Datos
 **`parte2.js`**
 
-2.1
+**2.1**
 ```js 
 let nombre = "Susana"; console.log("Hola, " + nombre);
 ```
 
-2.2
+**2.2**
 ```js
 let edad = 20;
 let precio = 10.5;
@@ -32,7 +32,7 @@ let color = "rojo";
 console.log(edad, precio, color);
 ```
 
-2.3
+**2.3**
 ```js
 const PI = 3.1416;
 // si se intenta cambiar el valor, por ejemplo: PI = 3.14; 
@@ -40,12 +40,14 @@ const PI = 3.1416;
 console.log("El valor de PI es:", PI);
 ```
 
+**2.4**
 ```js
 let variable;
 console.log("La variable tiene el valor:", variable);
 // La consola muestra: "La variable tiene el valor: undefined"
 ```
 
+**2.5**
 ```js
 let variableNull = null;
 let variableBoolean = true;
@@ -54,10 +56,12 @@ console.log("Las variables tienen los valores:", variableNull, variableBoolean)
 
 ## Parte 3
 
+**3.1**
 ```js
 
 ```
 
+**3.2**
 ```js
 
 ```
