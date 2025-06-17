@@ -17,6 +17,7 @@ Y que sea *"basado en eventos"* significa que espera a que algo suceda (un event
 💡 Esto hace que el sitio sea interactivo y dinámico.
 
 ## Parte 2: Variables y Tipos de Datos
+**`parte2.js`**
 
 2.1
 ```js 
@@ -35,11 +36,31 @@ console.log(edad, precio, color);
 ```js
 const PI = 3.1416;
 // si se intenta cambiar el valor, por ejemplo: PI = 3.14; 
-//sale (TypeError: Assignment to constant variable.) porque no se puede reasignar una constante
+// sale (TypeError: Assignment to constant variable.) porque no se puede reasignar una constante
 console.log("El valor de PI es:", PI);
 ```
 
+```js
+let variable;
+console.log("La variable tiene el valor:", variable);
+// La consola muestra: "La variable tiene el valor: undefined"
+```
+
+```js
+let variableNull = null;
+let variableBoolean = true;
+console.log("Las variables tienen los valores:", variableNull, variableBoolean)
+```
+
 ## Parte 3
+
+```js
+
+```
+
+```js
+
+```
 
 ## Parte 4
 
