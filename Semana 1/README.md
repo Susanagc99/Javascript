@@ -9,11 +9,12 @@
 - Le da interactividad a las páginas web (formularios, animaciones, validaciones, menús dinámicos, etc).
 
 1.3 ¿Qué significa que JavaScript sea un lenguaje "interpretado" y "basado en eventos"?
+
 Que sea un lenguaje "interpretado" significa que el código no necesita ser compilado antes de ejecutarse.
-* El navegador (como Chrome o Firefox) lee y ejecuta el código línea por línea al momento de cargar la página.
+💡 El navegador (como Chrome o Firefox) lee y ejecuta el código línea por línea al momento de cargar la página.
 Y que sea "basado en eventos" significa que espera a que algo suceda (un evento) para ejecutar cierta acción.
 Eventos como: Clic en un botón, movimiento del mouse, enviar un formulario, presionar una tecla...
-* Esto hace que el sitio sea interactivo y dinámico.
+💡 Esto hace que el sitio sea interactivo y dinámico.
 
 ## Parte 2
 
