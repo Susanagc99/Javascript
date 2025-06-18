@@ -13,7 +13,6 @@ JavaScript es un lenguaje de programación dinámico, interpretado y orientado a
 - **Event-driven**: Manejo de eventos y programación asíncrona
 - **Multiplataforma**: Se ejecuta en navegadores, servidores (Node.js) y aplicaciones móviles
 
-
 ## 📁 Estructura del Proyecto
 
 ```
@@ -35,33 +34,35 @@ Javascript/
 ## 🛠️ Herramientas y Tecnologías Relacionadas
 
 ### Frontend
+
 - **HTML5**: Estructura del contenido
 - **CSS3**: Estilos y diseño
 
-
 ### Backend
+
 - **Node.js**: Runtime de JavaScript en el servidor
-
-
 
 ## 🔧 Configuración del Entorno
 
 ### Instalación de Node.js
+
 1. Descarga Node.js desde [nodejs.org](https://nodejs.org/)
 2. Instala el paquete
 3. Verifica la instalación:
+
 ```bash
 node --version
 npm --version
 ```
 
 ### Editor Usado y Recomendado
-- **Visual Studio Code**: Editor gratuito con excelente soporte para JavaScript
 
+- **Visual Studio Code**: Editor gratuito con excelente soporte para JavaScript
 
 ## 🚀 Ejecutar Proyectos
 
 ### En el Navegador
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -75,6 +76,7 @@ npm --version
 ```
 
 ### Con Node.js
+
 ```bash
 # Ejecutar un archivo JavaScript
 node app.js
@@ -82,6 +84,5 @@ node app.js
 # Ejecutar con nodemon (desarrollo)
 npx nodemon app.js
 ```
-
 
 **¡Happy Coding! 🎉**
