@@ -329,8 +329,4 @@ la tarea está completa o pendiente. Por ejemplo: mostrar un ✅ o ❌ antes del
 - Entender cómo generar contenido HTML dinámicamente
 - Desarrollar habilidades en programación web frontend
 
-## 👨‍💻 Autor
-
-Desarrollado como parte de un taller de programación web.
-
 ---
