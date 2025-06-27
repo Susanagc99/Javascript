@@ -12,9 +12,12 @@ Este repositorio contiene todos los ejercicios, talleres y proyectos que he comp
 JAVASCRIPT/
 ├── Semana 1/
 │   ├── TallerLógica/           # Clasificador de triángulos
-│   └── TallerPráctico.js/      # Fundamentos de JavaScript
+│   └── TallerPráctico.js_Susana Gutiérrez Callejas/  # Fundamentos de JavaScript
 ├── Semana 2/
-│   └── Taller DOM/             # Manipulación del DOM
+│   ├── Trainning JS/           # Entrenamiento de la semana
+│   ├── Chall intro DOM/        # Desafío introductorio al DOM
+│   ├── Chall tasks/            # Sistema de gestión de tareas
+│   └── Chall products/         # Lista de productos dinámica
 └── README.md                   # Este archivo
 ```
 
@@ -81,10 +84,15 @@ Una serie de 8 ejercicios progresivos que cubren:
 - Integración de todos los conceptos aprendidos
 - Formateo de strings con template literals
 
-## 🌐 Semana 2: Manipulación del DOM
+## 🌐 Semana 2: Manipulación del DOM y Proyectos Prácticos
 
-### 🎯 Taller DOM - Interactividad Web
-**Carpeta:** `Semana 2/Taller DOM/`
+### 🎯 Trainning JS - ...
+**Carpeta:** `Semana 2/Trainning JS/`
+
+Ejercicios adicionales de práctica y refuerzo de conceptos fundamentales de JavaScript.
+
+### 🎯 Chall intro DOM - Desafío Introductorio al DOM
+**Carpeta:** `Semana 2/Chall intro DOM/`
 
 Tres partes progresivas que enseñan a crear páginas web interactivas:
 
@@ -100,11 +108,50 @@ Tres partes progresivas que enseñan a crear páginas web interactivas:
 - Creación de tarjetas de información
 - Formateo de datos para presentación web
 
-#### Parte 3: Eventos y Interactividad
-- Manejo de eventos del DOM
-- Creación de elementos dinámicos
-- Interacción con formularios
-- Validaciones en tiempo real
+#### Parte 3: Funciones y Lógica Condicional en el DOM ⭐ **COMPLETADO**
+- **Creación de tarjetas de contacto** con arrays de usuarios
+- **Formateo de listas de libros** con información estructurada
+- **Sistema de tareas con estados** (completada/pendiente)
+- **Uso de emojis** para indicar estados (✅/❌)
+- **Funciones personalizadas** para generar HTML dinámico
+- **Métodos avanzados de arrays** (`map()` con lógica condicional)
+
+### 🎯 Chall tasks - Sistema de Gestión de Tareas
+**Carpeta:** `Semana 2/Chall tasks/`
+
+Un sistema completo de gestión de tareas que incluye:
+
+**Funcionalidades implementadas:**
+- **Formulario interactivo** para agregar nuevas tareas
+- **Almacenamiento en arrays** de objetos con propiedades
+- **Visualización dinámica** de tareas en tiempo real
+- **Botones para marcar tareas como completadas**
+- **Actualización automática** de la interfaz
+- **Manejo de eventos** del DOM (`submit`, `click`)
+
+**Conceptos aplicados:**
+- Event listeners y manejo de formularios
+- Manipulación dinámica del DOM
+- Arrays de objetos complejos
+- Funciones de renderizado
+- Estado de aplicación
+
+### 🎯 Chall products - Lista de Productos Dinámica
+**Carpeta:** `Semana 2/Chall products/`
+
+Sistema de visualización de productos con:
+
+**Características:**
+- **Array de productos** con nombre, precio y categoría
+- **Botón interactivo** para mostrar productos
+- **Renderizado dinámico** de tarjetas de productos
+- **Estructura HTML** generada desde JavaScript
+- **Métodos de arrays** para recorrer y mostrar datos
+
+**Funcionalidades avanzadas:**
+- Filtrado por categorías
+- Cálculo de totales
+- Persistencia con localStorage (bonus)
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -112,6 +159,7 @@ Tres partes progresivas que enseñan a crear páginas web interactivas:
 - **CSS3**: Estilos básicos para presentación
 - **JavaScript (ES6+)**: Programación del lado del cliente
 - **DOM API**: Manipulación dinámica de páginas web
+- **LocalStorage**: Almacenamiento local de datos (en proyectos avanzados)
 
 ## 🚀 Cómo ejecutar los proyectos
 
@@ -125,6 +173,11 @@ Tres partes progresivas que enseñan a crear páginas web interactivas:
 2. Abre las herramientas de desarrollador (F12)
 3. Ve a la pestaña "Console" para ver los resultados
 
+### Para los desafíos interactivos:
+1. Abre el archivo `index.html` correspondiente
+2. Interactúa con los elementos de la página
+3. Prueba las funcionalidades como agregar tareas o mostrar productos
+
 ## 📈 Mi Progreso
 
 Este repositorio documenta mi evolución desde:
@@ -132,6 +185,7 @@ Este repositorio documenta mi evolución desde:
 - **Lógica de programación** → Resolución de problemas
 - **Fundamentos de JavaScript** → Sintaxis y estructuras
 - **Manipulación del DOM** → Creación de páginas interactivas
+- **Sistemas completos** → Aplicaciones web funcionales
 
 ## 🎓 Aprendizajes Clave
 
@@ -146,6 +200,8 @@ Este repositorio documenta mi evolución desde:
 - ✅ Aprendí a crear contenido dinámico en páginas web
 - ✅ Practiqué con arrays y objetos en contexto web
 - ✅ Creé páginas interactivas desde cero
+- ✅ Desarrollé sistemas completos de gestión de datos
+- ✅ Implementé funcionalidades avanzadas con eventos y estado
 
 ## 💡 Consejos para Principiantes
 
@@ -156,6 +212,7 @@ Si estás comenzando como yo, te recomiendo:
 3. **Usa la consola del navegador** para probar código rápidamente
 4. **Documenta tu código** con comentarios (como hice en los ejercicios)
 5. **No te frustres** si algo no funciona - es parte del aprendizaje
+6. **Construye proyectos completos** como los desafíos para consolidar conocimientos
 
 ## 🤝 Contribuciones
 
