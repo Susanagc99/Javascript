@@ -88,27 +88,28 @@ Una serie de 8 ejercicios progresivos que cubren:
 
 ### 🎯 Trainning JS - ...
 **Carpeta:** `Semana 2/Trainning JS/`
-
-Ejercicios adicionales de práctica y refuerzo de conceptos fundamentales de JavaScript.
+...
 
 ### 🎯 Chall intro DOM - Desafío Introductorio al DOM
 **Carpeta:** `Semana 2/Chall intro DOM/`
 
 Tres partes progresivas que enseñan a crear páginas web interactivas:
 
-#### Parte 1: Arrays orientados al DOM
-- Creación y manipulación de arrays
-- Métodos `forEach()` y `map()`
-- Inserción dinámica de contenido en HTML
-- Generación de listas y elementos HTML desde JavaScript
+#### Parte 1: Arrays orientados al DOM ⭐ 
+- **Mensajes de colores** generados desde arrays
+- **Frases motivadoras** con etiquetas HTML personalizadas
+- **Listas de números** con elementos `<li>` dinámicos
+- **Métodos `forEach()` y `map()`** para manipulación de arrays
+- **Inserción dinámica** de contenido en el DOM
 
-#### Parte 2: Objetos pensados para mostrarse
-- Creación y manipulación de objetos
-- Acceso a propiedades de objetos
-- Creación de tarjetas de información
-- Formateo de datos para presentación web
+#### Parte 2: Objetos pensados para mostrarse ⭐
+- **Tarjetas de persona** con información personal (nombre, edad, ocupación)
+- **Información de canciones** con emojis (💿, 🧑‍🎤, ⌛)
+- **Listas de productos** con formato de precio y stock
+- **Estructuras HTML dinámicas** generadas desde objetos
+- **Formateo de datos** para presentación web profesional
 
-#### Parte 3: Funciones y Lógica Condicional en el DOM ⭐ **COMPLETADO**
+#### Parte 3: Funciones y Lógica Condicional en el DOM ⭐ 
 - **Creación de tarjetas de contacto** con arrays de usuarios
 - **Formateo de listas de libros** con información estructurada
 - **Sistema de tareas con estados** (completada/pendiente)
@@ -119,22 +120,7 @@ Tres partes progresivas que enseñan a crear páginas web interactivas:
 ### 🎯 Chall tasks - Sistema de Gestión de Tareas
 **Carpeta:** `Semana 2/Chall tasks/`
 
-Un sistema completo de gestión de tareas que incluye:
-
-**Funcionalidades implementadas:**
-- **Formulario interactivo** para agregar nuevas tareas
-- **Almacenamiento en arrays** de objetos con propiedades
-- **Visualización dinámica** de tareas en tiempo real
-- **Botones para marcar tareas como completadas**
-- **Actualización automática** de la interfaz
-- **Manejo de eventos** del DOM (`submit`, `click`)
-
-**Conceptos aplicados:**
-- Event listeners y manejo de formularios
-- Manipulación dinámica del DOM
-- Arrays de objetos complejos
-- Funciones de renderizado
-- Estado de aplicación
+pendiente...
 
 ### 🎯 Chall products - Lista de Productos Dinámica
 **Carpeta:** `Semana 2/Chall products/`
