@@ -1,4 +1,4 @@
-# Training: Product Management with JSON Server
+# Product Management with JSON Server
 
 This project is a practical exercise to learn how to perform CRUD operations (Create, Read, Update, and Delete) on a product collection using JavaScript and a simulated server with [json-server]
 
@@ -63,7 +63,7 @@ Susana Gutiérrez Callejas 🤍
 
 -----
 
-# Training: Gestión de Productos con JSON Server
+# Gestión de Productos con JSON Server
 
 Este proyecto es un ejercicio práctico para aprender a realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) sobre una colección de productos utilizando JavaScript y un servidor simulado con [json-server].
 
