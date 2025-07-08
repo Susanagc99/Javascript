@@ -1,19 +1,19 @@
 {
   "task": [
     {
-      "id": "2",
+      "id": "1",
       "title": "Lista de tareas",
       "description": "Reto para la semana 2 de JavaScript y JSON",
       "completed": true
     },
     {
-      "id": "1",
+      "id": "2",
       "title": "Estudiar Fetch API",
       "description": "Aprender a consumir APIs con JavaScript",
       "completed": true
     },
     {
-      "id": "1",
+      "id": "3",
       "title": "Entrenamiento M3S3",
       "description": "Entrenamiento de moodle",
       "completed": false
