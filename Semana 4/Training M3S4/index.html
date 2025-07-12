@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Profile with Persistence</title>
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+    <main class="container">
+        <h1>Interactive Profile</h1>
+        <form id="userForm" autocomplete="off">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required placeholder="Enter your name">
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age" required placeholder="Enter your age">
+            <div class="buttons">
+                <button type="button" id="saveButton">Save Data</button>
+                <button type="button" id="clearButton">Clear Data</button>
+            </div>
+        </form>
+        <div id="output" class="output"></div>
+        <div id="counter" class="counter"></div>
+        <div id="feedback" class="feedback"></div>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html> 
